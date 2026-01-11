@@ -1,3 +1,12 @@
+
+
+
+# ⚠️ Open Access Notice
+
+The book *Supercomputing for Artificial Intelligence* will be released as **open access** on **January 30**.
+
+The complete text will be freely available to readers, and this repository provides the accompanying code, scripts, and reproducible experiments referenced throughout the book.
+
 <table>
   <tr>
     <td>
