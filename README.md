@@ -26,47 +26,111 @@ The complete text will be freely available to readers, and this repository provi
 </table>
 
 
-## 📖 FREE PREVIEW: Select the part that best fits your interests
+## 👉 **Book Web Page**: [https://torres.ai/supercomputing-for-ai](https://torres.ai/supercomputing-for-ai))
+---
+# When code is cheap, performance is expensive.
 
-- **[Book Overview & Table of Contents](https://torres.ai/wp-content/uploads/2025/08/Book-HPC4AI.content.pdf)**
-- **[Chapter 1: Introduction & Motivation](https://torres.ai/wp-content/uploads/2025/08/HPC4AIbook-Cap1.pdf)**
-- **[Chapter 6: Distributed GPU Programming (CUDA & MPI)](https://torres.ai/wp-content/uploads/2025/08/HPC4AIbook-Cap6.pdf)**
-- **[Chapter 12: PyTorch DDP & Scaling](https://torres.ai/wp-content/uploads/2025/08/HPC4AIbook-Cap12.pdf)**
+## *Supercomputing for Artificial Intelligence* is a practical, systems-oriented guide to training modern AI models at scale.
 
-👉 **Full Book**: Order the full book for just [ 9.99$ @ AMAZON USA (digital)](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H) or [for 9.99€ @ AMAZON ES (digital)](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)
+![Book cover – Supercomputing for Artificial Intelligence](https://torres.ai/wp-content/uploads/2026/01/Portada2aEd.png)
 
-👉 **Book Web Page**: [https://torres.ai/HPC4AIbook](https://torres.ai/HPC4AIbook))
+This book is not about writing code faster.
 
+It is about understanding what happens when that code runs — on GPUs, across nodes, under real resource constraints.
 
-## AVAILABLE CODE: Table of Contents
+In an era where AI tools can generate entire training pipelines in minutes, the real engineering challenge has shifted: performance, scalability, efficiency, and informed trade-offs.  
+**HPC for AI is about judgment, not recipes.**
 
-### PART I — THE INFRASTRUCTURE LAYER  
-1. Supercomputing Basics  
-2. Supercomputing Building Blocks 
-3. [Supercomputing Software Environment and Tools](./Chapter.03)
+---
 
-### PART II — THE PARALLEL EXECUTION LAYER  
-4. [Launching and Structuring Parallel Programs with MPI](./Chapter.04)  
-5. [GPU Programming and CUDA](./Chapter.05)  
-6. [Distributed GPU Programming](./Chapter.06)
+## What this book is about
 
-### PART III — THE INTELLIGENCE ABSTRACTION LAYER  
-7. [Neural Networks: Concepts and First Steps](./Chapter.07)  
-8. [Training Neural Networks: Basics, CNNs, and Deployment](./Chapter.07)  
-9. Getting Started with PyTorch
+*Supercomputing for Artificial Intelligence* provides a rigorous yet hands-on introduction to High Performance Computing as it applies to modern AI workloads.
 
-### PART IV — THE SCALABILITY LAYER  
-10. [Introduction to Parallel Training of Neural Networks](./Chapter.10)  
-11. [Practical Guide to Efficient Training with PyTorch](./Chapter.11.12)  
-12. [Parallelizing Model Training with Distributed Data Parallel](./Chapter.11.12)
+The focus is explicitly on **training**, not inference.
 
-### PART V — THE LANGUAGE ABSTRACTION LAYER  
-13. Introduction to Large Language Models 
-14. [End-to-End Large Language Models Workflow](./Chapter.14)  
-15. [Exploring Optimization and Scaling of LLMs](./Chapter.15)
+Readers are guided from foundational supercomputing concepts to the efficient and scalable training of deep learning models on real supercomputing platforms.
 
+The book integrates:
 
-> Additional materials will be made available as the book evolves.
+- computer architecture and modern GPU systems  
+- parallel and distributed execution models  
+- deep learning frameworks (TensorFlow and PyTorch)  
+- performance analysis and scalability metrics  
+- reproducible experiments on production-grade infrastructures  
+
+Rather than presenting isolated techniques, the book is structured as a learning path whose technical culmination is the ability to reason about and execute large-scale AI training workloads.
+
+---
+
+## Why this book exists (and why now)
+
+AI-assisted coding tools are changing how software is written. They are **not** changing the fundamental physics of computation.
+
+Generating code is becoming trivial. Understanding bottlenecks, overheads, scaling limits, and cost–performance trade-offs is not. This book addresses that gap.
+
+It is written for readers who want to:
+
+- understand why performance behaves the way it does  
+- measure instead of guess  
+- scale only when it makes sense  
+- avoid mistaking “more GPUs” for “better systems”  
+
+In short: to develop engineering judgment in AI systems.
+
+---
+
+## Technical scope and structure
+
+The primary technical focus of the book is the training of AI models on high-performance computing systems. Later chapters guide the reader through:
+
+- efficient single-node training  
+- data parallelism and distributed training  
+- scalability analysis and diminishing returns  
+- end-to-end workflows for modern deep learning models  
+
+This includes preparation for training contemporary Large Language Models on distributed GPU-based supercomputers.
+
+Earlier chapters cover:
+
+- supercomputing fundamentals  
+- system architecture  
+- software environments and schedulers  
+- classical parallel programming models  
+
+These sections can also be read independently as a rigorous introduction to High Performance Computing.
+
+Topics such as inference optimization, deployment, and edge execution are introduced only where needed for system-level context.
+
+---
+
+## Used in real courses, on real supercomputers
+
+This book is currently used as core reference material in master’s-level courses on supercomputing and artificial intelligence, including the  
+[HPC for AI course](https://torres.ai/hpc4ai-mei/) (MEI master, FIB–UPC).
+
+All examples and experiments are designed to run on real supercomputing platforms, not simplified toy environments. Companion code and fully reproducible experiments are provided.
+
+---
+
+## Open HTML edition (January 2026)
+
+The second edition of *Supercomputing for Artificial Intelligence* will be published openly in HTML format at the end of January 2026, once the current publishing agreement concludes.
+
+This open edition will make the full content freely accessible to students, researchers, and practitioners worldwide.
+
+---
+
+## Get the book
+
+The book is currently available in:
+
+- Digital and print editions via Amazon  
+  - [USA edition](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
+  - [Spain edition](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
+- Companion code and experiments on the  
+  [GitHub Repository](https://github.com/jorditorresBCN/HPC4AIbook)  
+- [Book overview and Table of Contents (PDF)](https://torres.ai/wp-content/uploads/2026/01/Book-2nEd.OverviewTableContents.pdf)
 
 ---
 
