@@ -1,12 +1,4 @@
 
-
-
-# ⚠️ Open Access Notice
-
-The book *Supercomputing for Artificial Intelligence* will be released as **open access** on **January 30**.
-
-The complete text will be freely available to readers, and this repository provides the accompanying code, scripts, and reproducible experiments referenced throughout the book.
-
 <table>
   <tr>
     <td>
@@ -21,18 +13,16 @@ The complete text will be freely available to readers, and this repository provi
       Welcome to the official GitHub repository for the book <strong>supercomputing-for-ai</strong>.<br><br>
       This book is designed as a practical and accessible guide to <em>High Performance Computing for Artificial Intelligence </em>, covering the foundations of supercomputing, the tools and architectures required, and how to scale deep learning workloads efficiently.<br><br>
       This repository provides access to the companion materials referenced throughout the book.
+      👉 **Book Web Page**: [https://torres.ai/supercomputing-for-ai](https://torres.ai/supercomputing-for-ai)
     </td>
   </tr>
 </table>
 
 
-## 👉 **Book Web Page**: [https://torres.ai/supercomputing-for-ai](https://torres.ai/supercomputing-for-ai))
 ---
 # When code is cheap, performance is expensive.
 
 ## *Supercomputing for Artificial Intelligence* is a practical, systems-oriented guide to training modern AI models at scale.
-
-![Book cover – Supercomputing for Artificial Intelligence](https://torres.ai/wp-content/uploads/2026/01/Portada2aEd.png)
 
 This book is not about writing code faster.
 
@@ -41,7 +31,6 @@ It is about understanding what happens when that code runs — on GPUs, across n
 In an era where AI tools can generate entire training pipelines in minutes, the real engineering challenge has shifted: performance, scalability, efficiency, and informed trade-offs.  
 **HPC for AI is about judgment, not recipes.**
 
----
 
 ## What this book is about
 
@@ -61,7 +50,6 @@ The book integrates:
 
 Rather than presenting isolated techniques, the book is structured as a learning path whose technical culmination is the ability to reason about and execute large-scale AI training workloads.
 
----
 
 ## Why this book exists (and why now)
 
@@ -78,7 +66,6 @@ It is written for readers who want to:
 
 In short: to develop engineering judgment in AI systems.
 
----
 
 ## Technical scope and structure
 
@@ -126,10 +113,9 @@ This open edition will make the full content freely accessible to students, rese
 The book is currently available in:
 
 - Digital and print editions via Amazon  
-  - [USA edition](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
-  - [Spain edition](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
+  - [USA market portal](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
+  - [Spain market potal](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
 - Companion code and experiments on the  
-  [GitHub Repository](https://github.com/jorditorresBCN/HPC4AIbook)  
 - [Book overview and Table of Contents (PDF)](https://torres.ai/wp-content/uploads/2026/01/Book-2nEd.OverviewTableContents.pdf)
 
 ---
