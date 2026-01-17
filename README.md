@@ -13,6 +13,7 @@
       Welcome to the official GitHub repository for the book <strong>supercomputing-for-ai</strong>.<br><br>
       This book is designed as a practical and accessible guide to <em>High Performance Computing for Artificial Intelligence </em>, covering the foundations of supercomputing, the tools and architectures required, and how to scale deep learning workloads efficiently.<br><br>
       This repository provides access to the companion materials referenced throughout the book.
+      
       👉 **Book Web Page**: [https://torres.ai/supercomputing-for-ai](https://torres.ai/supercomputing-for-ai)
     </td>
   </tr>
