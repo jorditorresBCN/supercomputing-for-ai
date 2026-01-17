@@ -109,12 +109,9 @@ This open edition will make the full content freely accessible to students, rese
 
 ## Get the book
 
-The book is currently available in:
-
-- Digital and print editions via Amazon  
-  - [USA market portal](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
-  - [Spain market potal](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
-- Companion code and experiments on the  
+The book is currently available in digital and print editions via Amazon  
+- [USA market portal](https://www.amazon.com/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
+- [Spain market potal](https://www.amazon.es/Supercomputing-Artificial-Intelligence-Foundations-Architectures/dp/B0F4YMMS7H)  
 - [Book overview and Table of Contents (PDF)](https://torres.ai/wp-content/uploads/2026/01/Book-2nEd.OverviewTableContents.pdf)
 
 ---
