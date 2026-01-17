@@ -10,7 +10,7 @@ The complete text will be freely available to readers, and this repository provi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/jorditorresBCN/HPC4AIbook/blob/main/HPC4AIbook-cover.jpg" alt="Cover" width="620"/>
+      <img src="https://github.com/jorditorresBCN/HPC4AIbook/blob/main/HPC4AIbook-cover.png" alt="Cover" width="620"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <strong>Supercomputing for Artificial Intelligence: Foundations, Architectures, and Scaling Deep Learning</strong><br>
