@@ -11,7 +11,7 @@
 #SBATCH --gres gpu:1                
 #SBATCH --cpus-per-task 20          
 #SBATCH --time 02:00:00      
-#SBATCH --account bsc31
+#SBATCH --account nct_382
 #SBATCH --qos acc_debug
 #SBATCH --exclusive
 
@@ -24,7 +24,7 @@ MODEL=vit                # --model_name: custom | vit
 DS=./datasets/micro-224  # --dataset: tiny-224 | micro-224
 EPOCHS=5                 # --num_epochs
 BS=10                    # --batch_size & --eval_batch_size
-NW=10                     # --num_workers
+NW=10                    # --num_workers
 OPTIM=sgd                # --optimizer 
 LOG_ITER=500             # --iteration_logging
 EPOCHS_EVAL_FREQ=5       # --epochs_eval
