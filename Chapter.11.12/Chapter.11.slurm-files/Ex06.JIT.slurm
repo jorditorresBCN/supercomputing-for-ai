@@ -46,7 +46,7 @@ BS=128                   # --batch_size & --eval_batch_size
 
     export CMD="python3 $PYTHON_FILE $PYTHON_ARGS"
 
-    SINGULARITY_CONTAINER=/gpfs/apps/MN5/ACC/SINGULARITY/SRC/images/nvidiaPytorch24.07
+    SINGULARITY_CONTAINER=/gpfs/apps/MN5/ACC/SINGULARITY/SRC/images/nvidiaPytorch24.07.sif
     SINGULARITY_ARGS=" --nv  $SINGULARITY_CONTAINER"
 
     SRUN_ARGS=" --cpus-per-task $SLURM_CPUS_PER_TASK --jobid $SLURM_JOB_ID"
