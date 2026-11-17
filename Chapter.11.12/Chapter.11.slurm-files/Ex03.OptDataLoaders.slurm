@@ -39,7 +39,7 @@ NUM_WORKERS=(0 1 2 4 8 10 16 20 24)
 for NW in "${NUM_WORKERS[@]}"; do
     echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Running with num_workers $NW"
 
-    PYTHON_FILE=./train.py
+    PYTHON_FILE=train.py
     PYTHON_ARGS="--model_name $MODEL \
                  --dataset $DS \
                  --num_epochs $EPOCHS \
