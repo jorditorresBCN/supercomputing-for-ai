@@ -30,7 +30,7 @@ EPOCHS_EVAL_FREQ=5       # --epochs_eval
 
 BS=128                   # --batch_size & --eval_batch_size
 
-    PYTHON_FILE=./train.py
+    PYTHON_FILE=train.py
     PYTHON_ARGS="--model_name $MODEL \
                  --dataset $DS \
                  --num_epochs $EPOCHS \
