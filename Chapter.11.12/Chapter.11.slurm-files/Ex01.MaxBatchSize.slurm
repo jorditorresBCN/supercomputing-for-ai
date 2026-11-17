@@ -38,7 +38,7 @@ BATCH_SIZES=(16 32 64 128 256 512)
 for BS in "${BATCH_SIZES[@]}"; do
     echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Running with batch size $BS"
 
-    PYTHON_FILE=./train.py
+    PYTHON_FILE=train.py
     PYTHON_ARGS="--model_name $MODEL \
                  --dataset $DS \
                  --num_epochs $EPOCHS \
