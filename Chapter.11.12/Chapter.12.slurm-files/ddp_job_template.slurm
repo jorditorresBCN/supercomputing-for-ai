@@ -5,8 +5,8 @@
 #SBATCH --error=./results/R-%x.%j.err
 #SBATCH --nodes=<NODES>
 #SBATCH --ntasks-per-node=1
-#SBATCH --gres=gpu:<GPUs>
-#SBATCH --cpus-per-task=20
+#SBATCH --gres=gpu:<num GPUs>
+#SBATCH --cpus-per-task=20*<num GPUs>
 #SBATCH --time=<TIME: 00:00:00>
 #SBATCH --account=<ACCOUNT>
 #SBATCH --qos=acc_debug
